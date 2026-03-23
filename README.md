@@ -13,13 +13,13 @@ O sistema lê continuamente o arquivo de log e dispara um alerta visual sempre q
 ## 📸 Demonstração
 
 ### 1. Alerta de Segurança
-![Alerta](Captura de tela 2024-11-20 182921.png)
+![Alerta](Captura de tela 2026-03-23 182921.png)
 
 ### 2. Simulação de Ataque
-![Ataque](Captura de tela 2024-11-20 182910.png)
+![Ataque](Captura de tela 2026-03-23 182910.png)
 
 ### 3. Lógica do Código
-![Codigo](Captura de tela 2024-11-20 182356.png)
+![Codigo](Captura de tela 2026-03-23 182356.png)
 
 ## 📋 Execução
 1. Inicie o monitor:
